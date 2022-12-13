@@ -9,11 +9,17 @@ body{
     margin-top: 0px;
 }
 
-.copy_right_footer{
+.copy_right_footer { 
     position: fixed;
-    color: deeppink;
-    width: 100%;
-    background-color: white;
-    text-align: center;
-    line-height: 3;
+     color: #ff00b7;
+      bottom: 0;
+       width: 100%; 
+       background-color: #000000;
+        line-height: 2;
+         text-align: center; 
+        }
+
+
+canvas{
+    border:2px solid white;
 }
